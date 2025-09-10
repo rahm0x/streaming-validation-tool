@@ -18,19 +18,18 @@ Mini-project to demonstrate **integration, validation, monitoring, and support (
 
 ---
 
-##  Project Structure
-```
+## 📂 Project Structure
 
+```bash
 streaming-validation-tool/
-│── docs/               # Incident logs & documentation
-│── media/              # Sample video for streaming
-│── python/             # Log analysis scripts (Python)
-│── scripts/            # Bash scripts (start, validate, monitor)
-│── run\_demo.sh         # One-click demo script
-│── README.md
-│── LICENSE
+├── docs/         # Incident logs & documentation
+├── media/        # Sample video for streaming
+├── python/       # Log analysis scripts (Python)
+├── scripts/      # Bash scripts (start, validate, monitor)
+├── run_demo.sh   # One-click demo script
+├── README.md
+└── LICENSE
 
-````
 
 ---
 
