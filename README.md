@@ -20,7 +20,6 @@ Mini-project to demonstrate **integration, validation, monitoring, and support (
 
 ## 📂 Project Structure
 
-```bash
 streaming-validation-tool/
 ├── docs/         # Incident logs & documentation
 ├── media/        # Sample video for streaming
@@ -34,7 +33,6 @@ streaming-validation-tool/
 ---
 
 ##  Installation
-```bash
 # Clone the repository
 git clone https://github.com/rahm0x/streaming-validation-tool.git
 cd streaming-validation-tool
