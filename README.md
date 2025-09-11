@@ -9,12 +9,30 @@ Mini-project to demonstrate **integration, validation, monitoring, and support (
 
 ---
 
+## 📑 Table of Contents
+- [Features](#features)
+- [Project Structure](#-project-structure)
+- [Installation](#installation)
+- [Quick Demo](#quick-demo)
+- [Incident Log](#incident-log)
+- [Contribution](#contribution)
+- [License](#-license)
+
+
 ##  Features
 - Start a local FFmpeg streaming service
 - Validate the stream with Bash
 - Monitor the service status
 - Analyse logs with Python
 - Document incidents and fixes (support N3)
+
+# Install dependencies (Debian/Ubuntu)
+sudo apt update && sudo apt install ffmpeg python3
+
+# (Optional) create a virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+
 
 ---
 
